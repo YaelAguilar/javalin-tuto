@@ -40,3 +40,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### environment files ###
+.env
+.env.test
+
+demo.ps1
